@@ -1,5 +1,6 @@
 // LeetCode Problem:1
 // It show the index number of the target 
+//Give the sorted array 
 import java.util.*;
 class twosum {
     public static int[] twoSum(int[] nums, int target) {
